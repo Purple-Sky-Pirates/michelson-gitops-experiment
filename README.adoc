@@ -1,0 +1,4 @@
+== Michelson GitOps Experiment
+
+Simple code to facilitate a simple GitOps experiment, that uses ArgoCD and Helm to deploy an application to OpenShift.
+
